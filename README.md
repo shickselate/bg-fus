@@ -53,7 +53,7 @@ Use the sliders to adjust:
 ### Run on Colab
 Click the badge below to open an editable online version:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mendea/brain-network-model-demo/blob/main/notebooks/bg_fus_interactive.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shickselate/model-t/blob/main/notebooks/bg_fus_interactive.ipynb)
 
 ---
 
